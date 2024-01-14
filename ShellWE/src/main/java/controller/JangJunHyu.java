@@ -5,4 +5,7 @@ public class JangJunHyu {
 		
 		return "goodBye noEnpyong";
 	}
+	public void newhello() {
+		System.out.println("new jang");
+	}
 }
