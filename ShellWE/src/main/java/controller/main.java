@@ -10,5 +10,6 @@ public class main {
 	}
 	public void newHello() {
 		System.out.println("new Hello");
+		System.out.println("shell we");
 	}
 }
