@@ -8,4 +8,5 @@ public class main {
 	public void goodbye() {
 		System.out.println("bye world!");
 	}
+
 }
